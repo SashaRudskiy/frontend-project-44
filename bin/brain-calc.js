@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import gameBody from '../src/gameBody.js';
 
 const description = 'What is the result of the expression?';
